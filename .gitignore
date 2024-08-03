@@ -1,0 +1,6 @@
+# CakePHP 3
+
+/vendor/*
+.phpunit.result.cache
+/logs/*
+!/logs/empty

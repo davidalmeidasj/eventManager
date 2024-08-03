@@ -1,0 +1,23 @@
+.toast {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    min-width: 200px;
+}
+
+.toast-header {
+    color: #ffffff;
+}
+
+.toast-header-success {
+    background-color: #28a745;
+}
+
+.toast-header-error {
+    background-color: #dc3545;
+}
+
+.toast-body {
+    background-color: #ffffff;
+    color: #000000;
+}
